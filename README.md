@@ -1,7 +1,7 @@
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=SeanKim's%20World&fontSize=60&fontAlignY=60&fontAlign=30)
-Languages that I learned at once :
+Languages that I have learned once at least :
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 
