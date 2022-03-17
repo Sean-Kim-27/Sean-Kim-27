@@ -10,7 +10,7 @@ Languages that I have learned once at least :
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sean-kim-27)](https://github.com/sean-kim-27/github-readme-stats)
 
-<a href="https://instagram.com/eto1le.sean"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/eto1le.sean"/></a>
+<a href="https://instagram.com/etoi1e.sean"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/etoi1e.sean"/></a>
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer)
 
 
